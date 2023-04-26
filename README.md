@@ -1,6 +1,8 @@
 # international-web-app
 
-This template should help get you started developing with Vue 3 in Vite.
+This is the source code for an article I wrote about adding internationalization to a Vue application. You can [read the article here](https://michellead.hashnode.dev/how-to-add-internationalization-to-your-vue-app-with-vuei18n).
+
+In the article, I show how to add internationalization to a vue app.
 
 ## Recommended IDE Setup
 
